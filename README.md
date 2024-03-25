@@ -1,3 +1,3 @@
 # Portif-lio
 
-### Desevolvido em Aula de Curso Front - End, no senac Tatuapé.
+### Site desenvolvido em sala de aula no curso Front-end Senac Tatuapé.
